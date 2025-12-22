@@ -1,0 +1,25 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "hello"
+  ],
+  "homepage": "https://github.com/Akksschamp/Devops-pipelines#readme",
+  "bugs": {
+    "url": "https://github.com/Akksschamp/Devops-pipelines/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akksschamp/Devops-pipelines.git"
+  },
+  "license": "ISC",
+  "author": "Akshay",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+    
+  }
+}
